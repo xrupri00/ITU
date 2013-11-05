@@ -1,0 +1,14 @@
+Kuba:
+navrh databaze
+mazani uzivatele
+zapomenute heslo
+
+Michal:
+vymyslet interface
+vymyslet design
++- grafy do budoucna
+
+Honza:
+faktury
+- zjistit, jak vypada, co v ni ma byt, volitelne casti
+- zprovoznit plugin ecijovni na tvorbu faktur a jestli se da modifikovat
