@@ -11,4 +11,4 @@ vymyslet design
 Honza:
 faktury
 - zjistit, jak vypada, co v ni ma byt, volitelne casti
-- zprovoznit plugin ecijovni na tvorbu faktur a jestli se da modifikovat
+- zprovoznit plugin eciovni na tvorbu faktur a jestli se da modifikovat
